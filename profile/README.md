@@ -1,6 +1,9 @@
 <p align="center">
-  <a href="https://www.workupy.com.br/">
-    <img src="../assets/logo.svg" alt="Workupy" />
+  <a href="https://www.workupy.com">
+    <img
+      src="https://github.com/Workupy/.github-private/blob/main/assets/logo.svg"
+      alt="Workupy"
+    />
   </a>
 </p>
 
